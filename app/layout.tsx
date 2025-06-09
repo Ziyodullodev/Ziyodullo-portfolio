@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Ziyodullo Aliyev',
+  description: 'Ziyodullo Aliyev, Backend, Django, Developer, Programmer, Founder of TafSoft.uz',
+  generator: 'TafSoft.uz',
 }
 
 export default function RootLayout({
